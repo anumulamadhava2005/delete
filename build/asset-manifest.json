@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/daemon_delete/static/css/main.e8fdbcb6.css",
+    "main.js": "/daemon_delete/static/js/main.a3fa8386.js",
+    "static/js/453.9c352b69.chunk.js": "/daemon_delete/static/js/453.9c352b69.chunk.js",
+    "index.html": "/daemon_delete/index.html",
+    "main.e8fdbcb6.css.map": "/daemon_delete/static/css/main.e8fdbcb6.css.map",
+    "main.a3fa8386.js.map": "/daemon_delete/static/js/main.a3fa8386.js.map",
+    "453.9c352b69.chunk.js.map": "/daemon_delete/static/js/453.9c352b69.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e8fdbcb6.css",
+    "static/js/main.a3fa8386.js"
+  ]
+}
